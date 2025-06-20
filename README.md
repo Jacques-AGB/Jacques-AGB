@@ -5,7 +5,6 @@
 💼 I've worked on several professional and academic projects using technologies such as:
 - **C# / ASP.NET Core** for backend systems
 - **Java / Spring Boot** for RESTful APIs
-- **Python** for data processing and automation
 - **JavaScript / Blazor / Node.js** for web development
 - **PostgreSQL / MySQL / SQL Server** for databases
 

@@ -23,7 +23,7 @@
   
 - 🌐 [Blog / Portfolio](https://kokouintech.blogspot.com/)
   
-- 📬 [Email](mailto:agblajack@gmail.com)
+- 📬 Email : agblajack@gmail.com
 
 ---
 

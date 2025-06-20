@@ -9,18 +9,14 @@
 - **JavaScript / Blazor / Node.js** for web development
 - **PostgreSQL / MySQL** for databases
 
-🚀 I'm currently:
-- Working on a **SaaS analytics dashboard** for API monitoring (using .NET + Spring Boot)
-- Building a **web app for fitness coaching** with subscription plans
-- Developing a **food delivery platform** for a client in Togo
-
-📚 On this GitHub, you'll find:
-- Backend APIs
+📚 On this GitHub, you'll find :
+- Somme personal project
+- Code of tutorial i've done on my blog
 - Mini-projects, scripts and demos
 - My learning journey in software design and architecture, clean architecture, and DevOps (CI/CD, Docker, etc.)
 
 🎯 My goals:
-- Become one of the best software architect in the world
+- Become one of the best software developer and architect in the world
 
 🔗 Let's connect!
 - 📹 [TikTok / YouTube - kokouInTech](https://www.tiktok.com/@kokouintech)

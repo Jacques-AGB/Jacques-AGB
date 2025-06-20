@@ -20,8 +20,10 @@
 
 🔗 Let's connect!
 - 📹 [TikTok / YouTube - kokouInTech](https://www.tiktok.com/@kokouintech)
-- 🌐 [Blog / Portfolio]([https://your-website.com](https://kokouintech.blogspot.com/)) 
-- 📬 [Email](mailto:agblajack@gmail.com)
+  
+- 🌐 [Blog / Portfolio]([https://your-website.com](https://kokouintech.blogspot.com/))
+  
+- 📬 [Email](agblajack@gmail.com)
 
 ---
 

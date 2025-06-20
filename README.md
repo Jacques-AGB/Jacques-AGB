@@ -21,7 +21,7 @@
 🔗 Let's connect!
 - 📹 [TikTok / YouTube - kokouInTech](https://www.tiktok.com/@kokouintech)
   
-- 🌐 [Blog / Portfolio]([https://your-website.com](https://kokouintech.blogspot.com/))
+- 🌐 [Blog / Portfolio](https://kokouintech.blogspot.com/)
   
 - 📬 [Email](agblajack@gmail.com)
 

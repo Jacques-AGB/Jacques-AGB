@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Kokou!
+# 👋 Hi, I'm Jacques!
 
 🎓 I'm a Master’s student in Computer Science at Université Lyon 2, passionate about backend development, software architecture, and building scalable web platforms.  
 
